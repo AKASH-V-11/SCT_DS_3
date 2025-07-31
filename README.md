@@ -86,4 +86,10 @@ Build an interactive dashboard to visualize predictions.
 UCI Machine Learning Repository for the dataset.
 Scikit-learn documentation for excellent examples and support.
 
-# LINKEDIN: https://www.linkedin.com/in/akash-v-9249b2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+## LINKEDIN:
+- https://www.linkedin.com/in/akash-v-9249b2296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+
+## ## 🎥💻VIDEO :
+-
+https://www.linkedin.com/posts/akash-v-9249b2296_datascience-sct-task3-activity-7353793210470608897-m9ps?utm_source=share&utm_medium=member_android&rcm=ACoAAEex2awBF83VC-fxl3uuiPf2qnkwSc8A5_0
+
